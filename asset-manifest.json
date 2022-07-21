@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/CRSN--TravelJournal/static/css/main.073c9b0a.css",
-    "main.js": "/CRSN--TravelJournal/static/js/main.83e5c927.js",
+    "main.css": "/CRSN--TravelJournal/static/css/main.bb683013.css",
+    "main.js": "/CRSN--TravelJournal/static/js/main.e76ba29d.js",
     "static/js/787.c9045d95.chunk.js": "/CRSN--TravelJournal/static/js/787.c9045d95.chunk.js",
-    "static/media/logo.svg": "/CRSN--TravelJournal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo.svg": "/CRSN--TravelJournal/static/media/logo.b257a849b0918cc4c8d7ed2e5ff34988.svg",
     "index.html": "/CRSN--TravelJournal/index.html",
-    "main.073c9b0a.css.map": "/CRSN--TravelJournal/static/css/main.073c9b0a.css.map",
-    "main.83e5c927.js.map": "/CRSN--TravelJournal/static/js/main.83e5c927.js.map",
+    "static/media/pin.svg": "/CRSN--TravelJournal/static/media/pin.bd51857efd61f4c67c3aee17458a82f6.svg",
+    "main.bb683013.css.map": "/CRSN--TravelJournal/static/css/main.bb683013.css.map",
+    "main.e76ba29d.js.map": "/CRSN--TravelJournal/static/js/main.e76ba29d.js.map",
     "787.c9045d95.chunk.js.map": "/CRSN--TravelJournal/static/js/787.c9045d95.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.83e5c927.js"
+    "static/css/main.bb683013.css",
+    "static/js/main.e76ba29d.js"
   ]
 }
