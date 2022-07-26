@@ -1,0 +1,54 @@
+.card {
+    background-color: white;
+    display: flex;
+    width: 42rem;
+    box-shadow: 5px 11px 104px -34px rgba(0,0,0,0.4);
+    -webkit-box-shadow: 5px 11px 104px -34px rgba(0,0,0,0.4);
+    -moz-box-shadow: 5px 11px 104px -34px rgba(0,0,0,0.4);
+    margin-bottom: 60px;
+}
+.card--image {
+    width: 200px;
+    height: 250px;
+    margin-right: 1rem;
+    background-size: 180% 100%;
+    background-position: center;
+}
+.card--info {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 1rem;
+    padding: 1rem 0;
+}
+
+.top--row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.4rem;
+}
+
+.top--pin {
+    height: 1.4rem;
+}
+
+.top--link {
+    text-decoration: none;
+    color: #b2b2b2;
+    border-bottom: 1px solid #b2b2b2;
+}
+
+.top--location {
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    margin-left: 0.5rem;
+    margin-right: 1.5rem;
+}
+.row--title {
+    font-size: 1.8rem;
+    margin-bottom: 0.7rem;
+}
+.bottom--duration {
+    font-weight: 500;
+    margin-bottom: 0.35rem;
+}
