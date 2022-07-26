@@ -13,4 +13,4 @@ WHAT I'VE LEARNED:
 - set up a react project using create-react-app
 - create rusable class and functional components
 - map over arrays of objects and display them as props
-- spead objects as props
+- spead objects as props  
